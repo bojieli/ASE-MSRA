@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<passengers
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://tempuri.org/passengers.xsd">
+    <passenger name="SENXIANG" comingtime="50" fromfloor="10" tofloor="20" weight="60" />
+    <passenger name="Piggy" comingtime="100" fromfloor="1" tofloor="15" weight="75" />
+    <passenger name="Later" comingtime="10000" fromfloor="99" tofloor="15" weight="45" />
+</passengers>

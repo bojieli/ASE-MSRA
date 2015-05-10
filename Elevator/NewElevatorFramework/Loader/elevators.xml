@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<elevators 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns="http://tempuri.org/Elevators.xsd">
+    
+    <elevator id="0" capability="800" floorheight="10" highestfloor="20" initheight="0"/>
+    <elevator id="1" capability="800" floorheight="10" highestfloor="20" initheight="20"/>
+    <elevator id="2" capability="1600" floorheight="10" highestfloor="20" initheight="0"/>
+    <elevator id="3" capability="1200" floorheight="10" highestfloor="20" initheight="20"/>
+</elevators>

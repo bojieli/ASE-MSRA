@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ElevXMLSchema"
+    targetNamespace="http://tempuri.org/Elevators.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Elevators.xsd"
+    xmlns:mstns="http://tempuri.org/Elevators.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+    <xs:element name="elevators" type="Elevators" />
+
+    <xs:complexType name="Elevators" >
+        <xs:sequence >
+            <xs:element name="elevator" type="Elevator" minOccurs="1" maxOccurs="unbounded" />
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="Elevator">
+        <xs:attribute name="id" type="xs:int" />
+        <xs:attribute name="capability" type="xs:int" />
+        <xs:attribute name="floorheight" type="xs:int" />
+        <xs:attribute name="highestfloor" type="xs:int" />
+        <xs:attribute name="initheight" type="xs:int" />
+    </xs:complexType>
+</xs:schema>

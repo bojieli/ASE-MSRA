@@ -1,0 +1,2725 @@
+#Tick 1--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 2--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 3--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 4--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 5--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 6--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 7--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 8--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 9--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 10--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 11--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 12--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 13--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 14--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 15--------------------
+Passenger[Sen_17] is coming
+[Elevator0]: now at 0 floor	 is runing to 5 floor	 Height 2
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 16--------------------
+[Elevator0]: now at 0 floor	 is runing to 5 floor	 Height 4
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 17--------------------
+[Elevator0]: now at 0 floor	 is runing to 5 floor	 Height 6
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 18--------------------
+[Elevator0]: now at 0 floor	 is runing to 5 floor	 Height 8
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 19--------------------
+[Elevator0]: now at 1 floor	 is runing to 5 floor	 Height 10
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 20--------------------
+[Elevator0]: now at 1 floor	 is runing to 5 floor	 Height 12
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 21--------------------
+[Elevator0]: now at 1 floor	 is runing to 5 floor	 Height 14
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 22--------------------
+[Elevator0]: now at 1 floor	 is runing to 5 floor	 Height 16
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 23--------------------
+[Elevator0]: now at 1 floor	 is runing to 5 floor	 Height 18
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 24--------------------
+[Elevator0]: now at 2 floor	 is runing to 5 floor	 Height 20
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 25--------------------
+[Elevator0]: now at 2 floor	 is runing to 5 floor	 Height 22
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 26--------------------
+[Elevator0]: now at 2 floor	 is runing to 5 floor	 Height 24
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 27--------------------
+Passenger[Sen_10] is coming
+[Elevator0]: now at 2 floor	 is runing to 5 floor	 Height 26
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 22
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 28--------------------
+[Elevator0]: now at 2 floor	 is runing to 5 floor	 Height 28
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 24
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 29--------------------
+[Elevator0]: now at 3 floor	 is runing to 5 floor	 Height 30
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 26
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 30--------------------
+[Elevator0]: now at 3 floor	 is runing to 5 floor	 Height 32
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 28
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 31--------------------
+[Elevator0]: now at 3 floor	 is runing to 5 floor	 Height 34
+[Elevator1]: now at 3 floor	 is runing to 3 floor	 Height 30
+[Elevator 1] :  OPEN the door at3 :
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 32--------------------
+=>Sen_10 enter Elevator1
+[Elevator0]: now at 3 floor	 is runing to 5 floor	 Height 36
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 33--------------------
+[Elevator0]: now at 3 floor	 is runing to 5 floor	 Height 38
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 34--------------------
+[Elevator0]: now at 4 floor	 is runing to 5 floor	 Height 40
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 35--------------------
+[Elevator0]: now at 4 floor	 is runing to 5 floor	 Height 42
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 36--------------------
+[Elevator0]: now at 4 floor	 is runing to 5 floor	 Height 44
+[Elevator1] :  CLOSE the door at3 :
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 37--------------------
+[Elevator0]: now at 4 floor	 is runing to 5 floor	 Height 46
+[Elevator1]: now at 3 floor	 is runing to 16 floor	 Height 32
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 38--------------------
+[Elevator0]: now at 4 floor	 is runing to 5 floor	 Height 48
+[Elevator1]: now at 3 floor	 is runing to 16 floor	 Height 34
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 39--------------------
+[Elevator0]: now at 5 floor	 is runing to 5 floor	 Height 50
+[Elevator 0] :  OPEN the door at5 :
+[Elevator1]: now at 3 floor	 is runing to 16 floor	 Height 36
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 40--------------------
+=>Sen_17 enter Elevator0
+[Elevator1]: now at 3 floor	 is runing to 16 floor	 Height 38
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 41--------------------
+[Elevator1]: now at 4 floor	 is runing to 16 floor	 Height 40
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 42--------------------
+[Elevator1]: now at 4 floor	 is runing to 16 floor	 Height 42
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 43--------------------
+[Elevator1]: now at 4 floor	 is runing to 16 floor	 Height 44
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 44--------------------
+[Elevator0] :  CLOSE the door at5 :
+[Elevator1]: now at 4 floor	 is runing to 16 floor	 Height 46
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 45--------------------
+[Elevator0]: now at 4 floor	 is runing to 3 floor	 Height 48
+[Elevator1]: now at 4 floor	 is runing to 16 floor	 Height 48
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 46--------------------
+[Elevator0]: now at 4 floor	 is runing to 3 floor	 Height 46
+[Elevator1]: now at 5 floor	 is runing to 16 floor	 Height 50
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 47--------------------
+[Elevator0]: now at 4 floor	 is runing to 3 floor	 Height 44
+[Elevator1]: now at 5 floor	 is runing to 16 floor	 Height 52
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 48--------------------
+[Elevator0]: now at 4 floor	 is runing to 3 floor	 Height 42
+[Elevator1]: now at 5 floor	 is runing to 16 floor	 Height 54
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 49--------------------
+[Elevator0]: now at 4 floor	 is runing to 3 floor	 Height 40
+[Elevator1]: now at 5 floor	 is runing to 16 floor	 Height 56
+[Elevator2]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 50--------------------
+Passenger[Sen_6] is coming
+[Elevator0]: now at 3 floor	 is runing to 3 floor	 Height 38
+[Elevator 0] :  OPEN the door at3 :
+[Elevator1]: now at 5 floor	 is runing to 16 floor	 Height 58
+[Elevator2]: now at 0 floor	 is runing to 12 floor	 Height 2
+[Elevator3]: It is Idle
+
+
+#Tick 51--------------------
+=>Sen_17 leave Elevator0
+[Elevator1]: now at 6 floor	 is runing to 16 floor	 Height 60
+[Elevator2]: now at 0 floor	 is runing to 12 floor	 Height 4
+[Elevator3]: It is Idle
+
+
+#Tick 52--------------------
+[Elevator1]: now at 6 floor	 is runing to 16 floor	 Height 62
+[Elevator2]: now at 0 floor	 is runing to 12 floor	 Height 6
+[Elevator3]: It is Idle
+
+
+#Tick 53--------------------
+[Elevator1]: now at 6 floor	 is runing to 16 floor	 Height 64
+[Elevator2]: now at 0 floor	 is runing to 12 floor	 Height 8
+[Elevator3]: It is Idle
+
+
+#Tick 54--------------------
+[Elevator1]: now at 6 floor	 is runing to 16 floor	 Height 66
+[Elevator2]: now at 1 floor	 is runing to 12 floor	 Height 10
+[Elevator3]: It is Idle
+
+
+#Tick 55--------------------
+[Elevator0] :  CLOSE the door at3 :
+[Elevator1]: now at 6 floor	 is runing to 16 floor	 Height 68
+[Elevator2]: now at 1 floor	 is runing to 12 floor	 Height 12
+[Elevator3]: It is Idle
+
+
+#Tick 56--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 7 floor	 is runing to 16 floor	 Height 70
+[Elevator2]: now at 1 floor	 is runing to 12 floor	 Height 14
+[Elevator3]: It is Idle
+
+
+#Tick 57--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 7 floor	 is runing to 16 floor	 Height 72
+[Elevator2]: now at 1 floor	 is runing to 12 floor	 Height 16
+[Elevator3]: It is Idle
+
+
+#Tick 58--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 7 floor	 is runing to 16 floor	 Height 74
+[Elevator2]: now at 1 floor	 is runing to 12 floor	 Height 18
+[Elevator3]: It is Idle
+
+
+#Tick 59--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 7 floor	 is runing to 16 floor	 Height 76
+[Elevator2]: now at 2 floor	 is runing to 12 floor	 Height 20
+[Elevator3]: It is Idle
+
+
+#Tick 60--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 7 floor	 is runing to 16 floor	 Height 78
+[Elevator2]: now at 2 floor	 is runing to 12 floor	 Height 22
+[Elevator3]: It is Idle
+
+
+#Tick 61--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 8 floor	 is runing to 16 floor	 Height 80
+[Elevator2]: now at 2 floor	 is runing to 12 floor	 Height 24
+[Elevator3]: It is Idle
+
+
+#Tick 62--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 8 floor	 is runing to 16 floor	 Height 82
+[Elevator2]: now at 2 floor	 is runing to 12 floor	 Height 26
+[Elevator3]: It is Idle
+
+
+#Tick 63--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 8 floor	 is runing to 16 floor	 Height 84
+[Elevator2]: now at 2 floor	 is runing to 12 floor	 Height 28
+[Elevator3]: It is Idle
+
+
+#Tick 64--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 8 floor	 is runing to 16 floor	 Height 86
+[Elevator2]: now at 3 floor	 is runing to 12 floor	 Height 30
+[Elevator3]: It is Idle
+
+
+#Tick 65--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 8 floor	 is runing to 16 floor	 Height 88
+[Elevator2]: now at 3 floor	 is runing to 12 floor	 Height 32
+[Elevator3]: It is Idle
+
+
+#Tick 66--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 9 floor	 is runing to 16 floor	 Height 90
+[Elevator2]: now at 3 floor	 is runing to 12 floor	 Height 34
+[Elevator3]: It is Idle
+
+
+#Tick 67--------------------
+Passenger[Sen_7] is coming
+[Elevator 0] :  OPEN the door at3 :
+[Elevator1]: now at 9 floor	 is runing to 16 floor	 Height 92
+[Elevator2]: now at 3 floor	 is runing to 12 floor	 Height 36
+[Elevator3]: It is Idle
+
+
+#Tick 68--------------------
+=>Sen_7 enter Elevator0
+[Elevator1]: now at 9 floor	 is runing to 16 floor	 Height 94
+[Elevator2]: now at 3 floor	 is runing to 12 floor	 Height 38
+[Elevator3]: It is Idle
+
+
+#Tick 69--------------------
+[Elevator1]: now at 9 floor	 is runing to 16 floor	 Height 96
+[Elevator2]: now at 4 floor	 is runing to 12 floor	 Height 40
+[Elevator3]: It is Idle
+
+
+#Tick 70--------------------
+[Elevator1]: now at 9 floor	 is runing to 16 floor	 Height 98
+[Elevator2]: now at 4 floor	 is runing to 12 floor	 Height 42
+[Elevator3]: It is Idle
+
+
+#Tick 71--------------------
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 100
+[Elevator2]: now at 4 floor	 is runing to 12 floor	 Height 44
+[Elevator3]: It is Idle
+
+
+#Tick 72--------------------
+[Elevator0] :  CLOSE the door at3 :
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 102
+[Elevator2]: now at 4 floor	 is runing to 12 floor	 Height 46
+[Elevator3]: It is Idle
+
+
+#Tick 73--------------------
+[Elevator0]: now at 4 floor	 is runing to 13 floor	 Height 40
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 104
+[Elevator2]: now at 4 floor	 is runing to 12 floor	 Height 48
+[Elevator3]: It is Idle
+
+
+#Tick 74--------------------
+[Elevator0]: now at 4 floor	 is runing to 13 floor	 Height 42
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 106
+[Elevator2]: now at 5 floor	 is runing to 12 floor	 Height 50
+[Elevator3]: It is Idle
+
+
+#Tick 75--------------------
+[Elevator0]: now at 4 floor	 is runing to 13 floor	 Height 44
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 108
+[Elevator2]: now at 5 floor	 is runing to 12 floor	 Height 52
+[Elevator3]: It is Idle
+
+
+#Tick 76--------------------
+[Elevator0]: now at 4 floor	 is runing to 13 floor	 Height 46
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 110
+[Elevator2]: now at 5 floor	 is runing to 12 floor	 Height 54
+[Elevator3]: It is Idle
+
+
+#Tick 77--------------------
+[Elevator0]: now at 4 floor	 is runing to 13 floor	 Height 48
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 112
+[Elevator2]: now at 5 floor	 is runing to 12 floor	 Height 56
+[Elevator3]: It is Idle
+
+
+#Tick 78--------------------
+[Elevator0]: now at 5 floor	 is runing to 13 floor	 Height 50
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 114
+[Elevator2]: now at 5 floor	 is runing to 12 floor	 Height 58
+[Elevator3]: It is Idle
+
+
+#Tick 79--------------------
+[Elevator0]: now at 5 floor	 is runing to 13 floor	 Height 52
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 116
+[Elevator2]: now at 6 floor	 is runing to 12 floor	 Height 60
+[Elevator3]: It is Idle
+
+
+#Tick 80--------------------
+[Elevator0]: now at 5 floor	 is runing to 13 floor	 Height 54
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 118
+[Elevator2]: now at 6 floor	 is runing to 12 floor	 Height 62
+[Elevator3]: It is Idle
+
+
+#Tick 81--------------------
+[Elevator0]: now at 5 floor	 is runing to 13 floor	 Height 56
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 120
+[Elevator2]: now at 6 floor	 is runing to 12 floor	 Height 64
+[Elevator3]: It is Idle
+
+
+#Tick 82--------------------
+[Elevator0]: now at 5 floor	 is runing to 13 floor	 Height 58
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 122
+[Elevator2]: now at 6 floor	 is runing to 12 floor	 Height 66
+[Elevator3]: It is Idle
+
+
+#Tick 83--------------------
+[Elevator0]: now at 6 floor	 is runing to 13 floor	 Height 60
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 124
+[Elevator2]: now at 6 floor	 is runing to 12 floor	 Height 68
+[Elevator3]: It is Idle
+
+
+#Tick 84--------------------
+[Elevator0]: now at 6 floor	 is runing to 13 floor	 Height 62
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 126
+[Elevator2]: now at 7 floor	 is runing to 12 floor	 Height 70
+[Elevator3]: It is Idle
+
+
+#Tick 85--------------------
+[Elevator0]: now at 6 floor	 is runing to 13 floor	 Height 64
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 128
+[Elevator2]: now at 7 floor	 is runing to 12 floor	 Height 72
+[Elevator3]: It is Idle
+
+
+#Tick 86--------------------
+[Elevator0]: now at 6 floor	 is runing to 13 floor	 Height 66
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 130
+[Elevator2]: now at 7 floor	 is runing to 12 floor	 Height 74
+[Elevator3]: It is Idle
+
+
+#Tick 87--------------------
+[Elevator0]: now at 6 floor	 is runing to 13 floor	 Height 68
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 132
+[Elevator2]: now at 7 floor	 is runing to 12 floor	 Height 76
+[Elevator3]: It is Idle
+
+
+#Tick 88--------------------
+[Elevator0]: now at 7 floor	 is runing to 13 floor	 Height 70
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 134
+[Elevator2]: now at 7 floor	 is runing to 12 floor	 Height 78
+[Elevator3]: It is Idle
+
+
+#Tick 89--------------------
+[Elevator0]: now at 7 floor	 is runing to 13 floor	 Height 72
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 136
+[Elevator2]: now at 8 floor	 is runing to 12 floor	 Height 80
+[Elevator3]: It is Idle
+
+
+#Tick 90--------------------
+[Elevator0]: now at 7 floor	 is runing to 13 floor	 Height 74
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 138
+[Elevator2]: now at 8 floor	 is runing to 12 floor	 Height 82
+[Elevator3]: It is Idle
+
+
+#Tick 91--------------------
+[Elevator0]: now at 7 floor	 is runing to 13 floor	 Height 76
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 140
+[Elevator2]: now at 8 floor	 is runing to 12 floor	 Height 84
+[Elevator3]: It is Idle
+
+
+#Tick 92--------------------
+[Elevator0]: now at 7 floor	 is runing to 13 floor	 Height 78
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 142
+[Elevator2]: now at 8 floor	 is runing to 12 floor	 Height 86
+[Elevator3]: It is Idle
+
+
+#Tick 93--------------------
+[Elevator0]: now at 8 floor	 is runing to 13 floor	 Height 80
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 144
+[Elevator2]: now at 8 floor	 is runing to 12 floor	 Height 88
+[Elevator3]: It is Idle
+
+
+#Tick 94--------------------
+[Elevator0]: now at 8 floor	 is runing to 13 floor	 Height 82
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 146
+[Elevator2]: now at 9 floor	 is runing to 12 floor	 Height 90
+[Elevator3]: It is Idle
+
+
+#Tick 95--------------------
+[Elevator0]: now at 8 floor	 is runing to 13 floor	 Height 84
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 148
+[Elevator2]: now at 9 floor	 is runing to 12 floor	 Height 92
+[Elevator3]: It is Idle
+
+
+#Tick 96--------------------
+[Elevator0]: now at 8 floor	 is runing to 13 floor	 Height 86
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 150
+[Elevator2]: now at 9 floor	 is runing to 12 floor	 Height 94
+[Elevator3]: It is Idle
+
+
+#Tick 97--------------------
+[Elevator0]: now at 8 floor	 is runing to 13 floor	 Height 88
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 152
+[Elevator2]: now at 9 floor	 is runing to 12 floor	 Height 96
+[Elevator3]: It is Idle
+
+
+#Tick 98--------------------
+[Elevator0]: now at 9 floor	 is runing to 13 floor	 Height 90
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 154
+[Elevator2]: now at 9 floor	 is runing to 12 floor	 Height 98
+[Elevator3]: It is Idle
+
+
+#Tick 99--------------------
+[Elevator0]: now at 9 floor	 is runing to 13 floor	 Height 92
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 156
+[Elevator2]: now at 10 floor	 is runing to 12 floor	 Height 100
+[Elevator3]: It is Idle
+
+
+#Tick 100--------------------
+[Elevator0]: now at 9 floor	 is runing to 13 floor	 Height 94
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 158
+[Elevator2]: now at 10 floor	 is runing to 12 floor	 Height 102
+[Elevator3]: It is Idle
+
+
+#Tick 101--------------------
+[Elevator0]: now at 9 floor	 is runing to 13 floor	 Height 96
+[Elevator1]: now at 16 floor	 is runing to 16 floor	 Height 160
+[Elevator 1] :  OPEN the door at16 :
+[Elevator2]: now at 10 floor	 is runing to 12 floor	 Height 104
+[Elevator3]: It is Idle
+
+
+#Tick 102--------------------
+=>Sen_10 leave Elevator1
+[Elevator0]: now at 9 floor	 is runing to 13 floor	 Height 98
+[Elevator2]: now at 10 floor	 is runing to 12 floor	 Height 106
+[Elevator3]: It is Idle
+
+
+#Tick 103--------------------
+[Elevator0]: now at 10 floor	 is runing to 13 floor	 Height 100
+[Elevator2]: now at 10 floor	 is runing to 12 floor	 Height 108
+[Elevator3]: It is Idle
+
+
+#Tick 104--------------------
+[Elevator0]: now at 10 floor	 is runing to 13 floor	 Height 102
+[Elevator2]: now at 11 floor	 is runing to 12 floor	 Height 110
+[Elevator3]: It is Idle
+
+
+#Tick 105--------------------
+[Elevator0]: now at 10 floor	 is runing to 13 floor	 Height 104
+[Elevator2]: now at 11 floor	 is runing to 12 floor	 Height 112
+[Elevator3]: It is Idle
+
+
+#Tick 106--------------------
+[Elevator0]: now at 10 floor	 is runing to 13 floor	 Height 106
+[Elevator1] :  CLOSE the door at16 :
+[Elevator2]: now at 11 floor	 is runing to 12 floor	 Height 114
+[Elevator3]: It is Idle
+
+
+#Tick 107--------------------
+[Elevator0]: now at 10 floor	 is runing to 13 floor	 Height 108
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 12 floor	 Height 116
+[Elevator3]: It is Idle
+
+
+#Tick 108--------------------
+[Elevator0]: now at 11 floor	 is runing to 13 floor	 Height 110
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 12 floor	 Height 118
+[Elevator3]: It is Idle
+
+
+#Tick 109--------------------
+[Elevator0]: now at 11 floor	 is runing to 13 floor	 Height 112
+[Elevator1]: It is Idle
+[Elevator2]: now at 12 floor	 is runing to 12 floor	 Height 120
+[Elevator 2] :  OPEN the door at12 :
+[Elevator3]: It is Idle
+
+
+#Tick 110--------------------
+=>Sen_6 enter Elevator2
+[Elevator0]: now at 11 floor	 is runing to 13 floor	 Height 114
+[Elevator1]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 111--------------------
+[Elevator0]: now at 11 floor	 is runing to 13 floor	 Height 116
+[Elevator1]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 112--------------------
+[Elevator0]: now at 11 floor	 is runing to 13 floor	 Height 118
+[Elevator1]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 113--------------------
+[Elevator0]: now at 12 floor	 is runing to 13 floor	 Height 120
+[Elevator1]: It is Idle
+[Elevator3]: It is Idle
+
+
+#Tick 114--------------------
+[Elevator0]: now at 12 floor	 is runing to 13 floor	 Height 122
+[Elevator1]: It is Idle
+[Elevator2] :  CLOSE the door at12 :
+[Elevator3]: It is Idle
+
+
+#Tick 115--------------------
+[Elevator0]: now at 12 floor	 is runing to 13 floor	 Height 124
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 5 floor	 Height 118
+[Elevator3]: It is Idle
+
+
+#Tick 116--------------------
+[Elevator0]: now at 12 floor	 is runing to 13 floor	 Height 126
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 5 floor	 Height 116
+[Elevator3]: It is Idle
+
+
+#Tick 117--------------------
+[Elevator0]: now at 12 floor	 is runing to 13 floor	 Height 128
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 5 floor	 Height 114
+[Elevator3]: It is Idle
+
+
+#Tick 118--------------------
+[Elevator0]: now at 13 floor	 is runing to 13 floor	 Height 130
+[Elevator 0] :  OPEN the door at13 :
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 5 floor	 Height 112
+[Elevator3]: It is Idle
+
+
+#Tick 119--------------------
+=>Sen_7 leave Elevator0
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 5 floor	 Height 110
+[Elevator3]: It is Idle
+
+
+#Tick 120--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 5 floor	 Height 108
+[Elevator3]: It is Idle
+
+
+#Tick 121--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 5 floor	 Height 106
+[Elevator3]: It is Idle
+
+
+#Tick 122--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 5 floor	 Height 104
+[Elevator3]: It is Idle
+
+
+#Tick 123--------------------
+[Elevator0] :  CLOSE the door at13 :
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 5 floor	 Height 102
+[Elevator3]: It is Idle
+
+
+#Tick 124--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 5 floor	 Height 100
+[Elevator3]: It is Idle
+
+
+#Tick 125--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 5 floor	 Height 98
+[Elevator3]: It is Idle
+
+
+#Tick 126--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 5 floor	 Height 96
+[Elevator3]: It is Idle
+
+
+#Tick 127--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 5 floor	 Height 94
+[Elevator3]: It is Idle
+
+
+#Tick 128--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 5 floor	 Height 92
+[Elevator3]: It is Idle
+
+
+#Tick 129--------------------
+Passenger[Sen_14] is coming
+[Elevator 0] :  OPEN the door at13 :
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 5 floor	 Height 90
+[Elevator3]: It is Idle
+
+
+#Tick 130--------------------
+=>Sen_14 enter Elevator0
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 5 floor	 Height 88
+[Elevator3]: It is Idle
+
+
+#Tick 131--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 5 floor	 Height 86
+[Elevator3]: It is Idle
+
+
+#Tick 132--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 5 floor	 Height 84
+[Elevator3]: It is Idle
+
+
+#Tick 133--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 5 floor	 Height 82
+[Elevator3]: It is Idle
+
+
+#Tick 134--------------------
+[Elevator0] :  CLOSE the door at13 :
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 5 floor	 Height 80
+[Elevator3]: It is Idle
+
+
+#Tick 135--------------------
+[Elevator0]: now at 13 floor	 is runing to 16 floor	 Height 132
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 5 floor	 Height 78
+[Elevator3]: It is Idle
+
+
+#Tick 136--------------------
+[Elevator0]: now at 13 floor	 is runing to 16 floor	 Height 134
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 5 floor	 Height 76
+[Elevator3]: It is Idle
+
+
+#Tick 137--------------------
+[Elevator0]: now at 13 floor	 is runing to 16 floor	 Height 136
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 5 floor	 Height 74
+[Elevator3]: It is Idle
+
+
+#Tick 138--------------------
+[Elevator0]: now at 13 floor	 is runing to 16 floor	 Height 138
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 5 floor	 Height 72
+[Elevator3]: It is Idle
+
+
+#Tick 139--------------------
+[Elevator0]: now at 14 floor	 is runing to 16 floor	 Height 140
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 5 floor	 Height 70
+[Elevator3]: It is Idle
+
+
+#Tick 140--------------------
+[Elevator0]: now at 14 floor	 is runing to 16 floor	 Height 142
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 5 floor	 Height 68
+[Elevator3]: It is Idle
+
+
+#Tick 141--------------------
+[Elevator0]: now at 14 floor	 is runing to 16 floor	 Height 144
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 5 floor	 Height 66
+[Elevator3]: It is Idle
+
+
+#Tick 142--------------------
+[Elevator0]: now at 14 floor	 is runing to 16 floor	 Height 146
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 5 floor	 Height 64
+[Elevator3]: It is Idle
+
+
+#Tick 143--------------------
+Passenger[Sen_15] is coming
+[Elevator0]: now at 14 floor	 is runing to 16 floor	 Height 148
+[Elevator1]: now at 15 floor	 is runing to 1 floor	 Height 158
+[Elevator2]: now at 6 floor	 is runing to 5 floor	 Height 62
+[Elevator3]: It is Idle
+
+
+#Tick 144--------------------
+Passenger[Sen_2] is coming
+[Elevator0]: now at 15 floor	 is runing to 16 floor	 Height 150
+[Elevator1]: now at 15 floor	 is runing to 1 floor	 Height 156
+[Elevator2]: now at 6 floor	 is runing to 5 floor	 Height 60
+[Elevator3]: now at 2 floor	 is runing to 3 floor	 Height 22
+
+
+#Tick 145--------------------
+[Elevator0]: now at 15 floor	 is runing to 16 floor	 Height 152
+[Elevator1]: now at 15 floor	 is runing to 1 floor	 Height 154
+[Elevator2]: now at 5 floor	 is runing to 5 floor	 Height 58
+[Elevator 2] :  OPEN the door at5 :
+[Elevator3]: now at 2 floor	 is runing to 3 floor	 Height 24
+
+
+#Tick 146--------------------
+=>Sen_6 leave Elevator2
+[Elevator0]: now at 15 floor	 is runing to 16 floor	 Height 154
+[Elevator1]: now at 15 floor	 is runing to 1 floor	 Height 152
+[Elevator3]: now at 2 floor	 is runing to 3 floor	 Height 26
+
+
+#Tick 147--------------------
+[Elevator0]: now at 15 floor	 is runing to 16 floor	 Height 156
+[Elevator1]: now at 15 floor	 is runing to 1 floor	 Height 150
+[Elevator3]: now at 2 floor	 is runing to 3 floor	 Height 28
+
+
+#Tick 148--------------------
+Passenger[Sen_1] is coming
+[Elevator0]: now at 15 floor	 is runing to 16 floor	 Height 158
+[Elevator1]: now at 14 floor	 is runing to 1 floor	 Height 148
+[Elevator3]: now at 3 floor	 is runing to 3 floor	 Height 30
+[Elevator 3] :  OPEN the door at3 :
+
+
+#Tick 149--------------------
+=>Sen_2 enter Elevator3
+[Elevator0]: now at 16 floor	 is runing to 16 floor	 Height 160
+[Elevator 0] :  OPEN the door at16 :
+[Elevator1]: now at 14 floor	 is runing to 1 floor	 Height 146
+
+
+#Tick 150--------------------
+=>Sen_14 leave Elevator0
+[Elevator1]: now at 14 floor	 is runing to 1 floor	 Height 144
+[Elevator2] :  CLOSE the door at5 :
+
+
+#Tick 151--------------------
+[Elevator1]: now at 14 floor	 is runing to 1 floor	 Height 142
+[Elevator2]: now at 6 floor	 is runing to 15 floor	 Height 60
+
+
+#Tick 152--------------------
+[Elevator1]: now at 14 floor	 is runing to 1 floor	 Height 140
+[Elevator2]: now at 6 floor	 is runing to 15 floor	 Height 62
+
+
+#Tick 153--------------------
+[Elevator1]: now at 13 floor	 is runing to 1 floor	 Height 138
+[Elevator2]: now at 6 floor	 is runing to 15 floor	 Height 64
+[Elevator3] :  CLOSE the door at3 :
+
+
+#Tick 154--------------------
+[Elevator0] :  CLOSE the door at16 :
+[Elevator1]: now at 13 floor	 is runing to 1 floor	 Height 136
+[Elevator2]: now at 6 floor	 is runing to 15 floor	 Height 66
+[Elevator3]: now at 3 floor	 is runing to 14 floor	 Height 32
+
+
+#Tick 155--------------------
+[Elevator0]: It is Idle
+[Elevator1]: now at 13 floor	 is runing to 1 floor	 Height 134
+[Elevator2]: now at 6 floor	 is runing to 15 floor	 Height 68
+[Elevator3]: now at 3 floor	 is runing to 14 floor	 Height 34
+
+
+#Tick 156--------------------
+Passenger[Sen_16] is coming
+Passenger[Sen_19] is coming
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 162
+[Elevator1]: now at 13 floor	 is runing to 1 floor	 Height 132
+[Elevator2]: now at 7 floor	 is runing to 15 floor	 Height 70
+[Elevator3]: now at 3 floor	 is runing to 14 floor	 Height 36
+
+
+#Tick 157--------------------
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 164
+[Elevator1]: now at 13 floor	 is runing to 1 floor	 Height 130
+[Elevator2]: now at 7 floor	 is runing to 15 floor	 Height 72
+[Elevator3]: now at 3 floor	 is runing to 14 floor	 Height 38
+
+
+#Tick 158--------------------
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 166
+[Elevator1]: now at 12 floor	 is runing to 1 floor	 Height 128
+[Elevator2]: now at 7 floor	 is runing to 15 floor	 Height 74
+[Elevator3]: now at 4 floor	 is runing to 14 floor	 Height 40
+
+
+#Tick 159--------------------
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 168
+[Elevator1]: now at 12 floor	 is runing to 1 floor	 Height 126
+[Elevator2]: now at 7 floor	 is runing to 15 floor	 Height 76
+[Elevator3]: now at 4 floor	 is runing to 14 floor	 Height 42
+
+
+#Tick 160--------------------
+Passenger[Sen_9] is coming
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 170
+[Elevator1]: now at 12 floor	 is runing to 1 floor	 Height 124
+[Elevator2]: now at 7 floor	 is runing to 15 floor	 Height 78
+[Elevator3]: now at 4 floor	 is runing to 14 floor	 Height 44
+
+
+#Tick 161--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 172
+[Elevator1]: now at 12 floor	 is runing to 1 floor	 Height 122
+[Elevator2]: now at 8 floor	 is runing to 15 floor	 Height 80
+[Elevator3]: now at 4 floor	 is runing to 14 floor	 Height 46
+
+
+#Tick 162--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 174
+[Elevator1]: now at 12 floor	 is runing to 1 floor	 Height 120
+[Elevator2]: now at 8 floor	 is runing to 15 floor	 Height 82
+[Elevator3]: now at 4 floor	 is runing to 14 floor	 Height 48
+
+
+#Tick 163--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 176
+[Elevator1]: now at 11 floor	 is runing to 1 floor	 Height 118
+[Elevator2]: now at 8 floor	 is runing to 15 floor	 Height 84
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 50
+
+
+#Tick 164--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 178
+[Elevator1]: now at 11 floor	 is runing to 1 floor	 Height 116
+[Elevator2]: now at 8 floor	 is runing to 15 floor	 Height 86
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 52
+
+
+#Tick 165--------------------
+[Elevator0]: now at 18 floor	 is runing to 18 floor	 Height 180
+[Elevator 0] :  OPEN the door at18 :
+[Elevator1]: now at 11 floor	 is runing to 1 floor	 Height 114
+[Elevator2]: now at 8 floor	 is runing to 15 floor	 Height 88
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 54
+
+
+#Tick 166--------------------
+=>Sen_16 enter Elevator0
+[Elevator1]: now at 11 floor	 is runing to 1 floor	 Height 112
+[Elevator2]: now at 9 floor	 is runing to 15 floor	 Height 90
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 56
+
+
+#Tick 167--------------------
+[Elevator1]: now at 11 floor	 is runing to 1 floor	 Height 110
+[Elevator2]: now at 9 floor	 is runing to 15 floor	 Height 92
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 58
+
+
+#Tick 168--------------------
+[Elevator1]: now at 10 floor	 is runing to 1 floor	 Height 108
+[Elevator2]: now at 9 floor	 is runing to 15 floor	 Height 94
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 60
+
+
+#Tick 169--------------------
+[Elevator1]: now at 10 floor	 is runing to 1 floor	 Height 106
+[Elevator2]: now at 9 floor	 is runing to 15 floor	 Height 96
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 62
+
+
+#Tick 170--------------------
+[Elevator0] :  CLOSE the door at18 :
+[Elevator1]: now at 10 floor	 is runing to 1 floor	 Height 104
+[Elevator2]: now at 9 floor	 is runing to 15 floor	 Height 98
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 64
+
+
+#Tick 171--------------------
+[Elevator0]: now at 17 floor	 is runing to 16 floor	 Height 178
+[Elevator1]: now at 10 floor	 is runing to 1 floor	 Height 102
+[Elevator2]: now at 10 floor	 is runing to 15 floor	 Height 100
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 66
+
+
+#Tick 172--------------------
+[Elevator0]: now at 17 floor	 is runing to 16 floor	 Height 176
+[Elevator1]: now at 10 floor	 is runing to 1 floor	 Height 100
+[Elevator2]: now at 10 floor	 is runing to 15 floor	 Height 102
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 68
+
+
+#Tick 173--------------------
+[Elevator0]: now at 17 floor	 is runing to 16 floor	 Height 174
+[Elevator1]: now at 9 floor	 is runing to 1 floor	 Height 98
+[Elevator2]: now at 10 floor	 is runing to 15 floor	 Height 104
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 70
+
+
+#Tick 174--------------------
+[Elevator0]: now at 17 floor	 is runing to 16 floor	 Height 172
+[Elevator1]: now at 9 floor	 is runing to 1 floor	 Height 96
+[Elevator2]: now at 10 floor	 is runing to 15 floor	 Height 106
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 72
+
+
+#Tick 175--------------------
+[Elevator0]: now at 17 floor	 is runing to 16 floor	 Height 170
+[Elevator1]: now at 9 floor	 is runing to 1 floor	 Height 94
+[Elevator2]: now at 10 floor	 is runing to 15 floor	 Height 108
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 74
+
+
+#Tick 176--------------------
+[Elevator0]: now at 16 floor	 is runing to 16 floor	 Height 168
+[Elevator 0] :  OPEN the door at16 :
+[Elevator1]: now at 9 floor	 is runing to 1 floor	 Height 92
+[Elevator2]: now at 11 floor	 is runing to 15 floor	 Height 110
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 76
+
+
+#Tick 177--------------------
+=>Sen_19 enter Elevator0
+[Elevator1]: now at 9 floor	 is runing to 1 floor	 Height 90
+[Elevator2]: now at 11 floor	 is runing to 15 floor	 Height 112
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 78
+
+
+#Tick 178--------------------
+[Elevator1]: now at 8 floor	 is runing to 1 floor	 Height 88
+[Elevator2]: now at 11 floor	 is runing to 15 floor	 Height 114
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 80
+
+
+#Tick 179--------------------
+[Elevator1]: now at 8 floor	 is runing to 1 floor	 Height 86
+[Elevator2]: now at 11 floor	 is runing to 15 floor	 Height 116
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 82
+
+
+#Tick 180--------------------
+[Elevator1]: now at 8 floor	 is runing to 1 floor	 Height 84
+[Elevator2]: now at 11 floor	 is runing to 15 floor	 Height 118
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 84
+
+
+#Tick 181--------------------
+[Elevator0] :  CLOSE the door at16 :
+[Elevator1]: now at 8 floor	 is runing to 1 floor	 Height 82
+[Elevator2]: now at 12 floor	 is runing to 15 floor	 Height 120
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 86
+
+
+#Tick 182--------------------
+[Elevator0]: now at 16 floor	 is runing to 12 floor	 Height 166
+[Elevator1]: now at 8 floor	 is runing to 1 floor	 Height 80
+[Elevator2]: now at 12 floor	 is runing to 15 floor	 Height 122
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 88
+
+
+#Tick 183--------------------
+[Elevator0]: now at 16 floor	 is runing to 12 floor	 Height 164
+[Elevator1]: now at 7 floor	 is runing to 1 floor	 Height 78
+[Elevator2]: now at 12 floor	 is runing to 15 floor	 Height 124
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 90
+
+
+#Tick 184--------------------
+[Elevator0]: now at 16 floor	 is runing to 12 floor	 Height 162
+[Elevator1]: now at 7 floor	 is runing to 1 floor	 Height 76
+[Elevator2]: now at 12 floor	 is runing to 15 floor	 Height 126
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 92
+
+
+#Tick 185--------------------
+[Elevator0]: now at 16 floor	 is runing to 12 floor	 Height 160
+[Elevator1]: now at 7 floor	 is runing to 1 floor	 Height 74
+[Elevator2]: now at 12 floor	 is runing to 15 floor	 Height 128
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 94
+
+
+#Tick 186--------------------
+[Elevator0]: now at 15 floor	 is runing to 12 floor	 Height 158
+[Elevator1]: now at 7 floor	 is runing to 1 floor	 Height 72
+[Elevator2]: now at 13 floor	 is runing to 15 floor	 Height 130
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 96
+
+
+#Tick 187--------------------
+[Elevator0]: now at 15 floor	 is runing to 12 floor	 Height 156
+[Elevator1]: now at 7 floor	 is runing to 1 floor	 Height 70
+[Elevator2]: now at 13 floor	 is runing to 15 floor	 Height 132
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 98
+
+
+#Tick 188--------------------
+[Elevator0]: now at 15 floor	 is runing to 12 floor	 Height 154
+[Elevator1]: now at 6 floor	 is runing to 1 floor	 Height 68
+[Elevator2]: now at 13 floor	 is runing to 15 floor	 Height 134
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 100
+
+
+#Tick 189--------------------
+Passenger[Sen_12] is coming
+[Elevator0]: now at 15 floor	 is runing to 12 floor	 Height 152
+[Elevator1]: now at 6 floor	 is runing to 1 floor	 Height 66
+[Elevator2]: now at 13 floor	 is runing to 15 floor	 Height 136
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 102
+
+
+#Tick 190--------------------
+[Elevator0]: now at 15 floor	 is runing to 12 floor	 Height 150
+[Elevator1]: now at 6 floor	 is runing to 1 floor	 Height 64
+[Elevator2]: now at 13 floor	 is runing to 15 floor	 Height 138
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 104
+
+
+#Tick 191--------------------
+[Elevator0]: now at 14 floor	 is runing to 12 floor	 Height 148
+[Elevator1]: now at 6 floor	 is runing to 1 floor	 Height 62
+[Elevator2]: now at 14 floor	 is runing to 15 floor	 Height 140
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 106
+
+
+#Tick 192--------------------
+[Elevator0]: now at 14 floor	 is runing to 12 floor	 Height 146
+[Elevator1]: now at 6 floor	 is runing to 1 floor	 Height 60
+[Elevator2]: now at 14 floor	 is runing to 15 floor	 Height 142
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 108
+
+
+#Tick 193--------------------
+[Elevator0]: now at 14 floor	 is runing to 12 floor	 Height 144
+[Elevator1]: now at 5 floor	 is runing to 1 floor	 Height 58
+[Elevator2]: now at 14 floor	 is runing to 15 floor	 Height 144
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 110
+
+
+#Tick 194--------------------
+[Elevator0]: now at 14 floor	 is runing to 12 floor	 Height 142
+[Elevator1]: now at 5 floor	 is runing to 1 floor	 Height 56
+[Elevator2]: now at 14 floor	 is runing to 15 floor	 Height 146
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 112
+
+
+#Tick 195--------------------
+[Elevator0]: now at 14 floor	 is runing to 12 floor	 Height 140
+[Elevator1]: now at 5 floor	 is runing to 1 floor	 Height 54
+[Elevator2]: now at 14 floor	 is runing to 15 floor	 Height 148
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 114
+
+
+#Tick 196--------------------
+[Elevator0]: now at 13 floor	 is runing to 12 floor	 Height 138
+[Elevator1]: now at 5 floor	 is runing to 1 floor	 Height 52
+[Elevator2]: now at 15 floor	 is runing to 15 floor	 Height 150
+[Elevator 2] :  OPEN the door at15 :
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 116
+
+
+#Tick 197--------------------
+=>Sen_12 enter Elevator2
+[Elevator0]: now at 13 floor	 is runing to 12 floor	 Height 136
+[Elevator1]: now at 5 floor	 is runing to 1 floor	 Height 50
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 118
+
+
+#Tick 198--------------------
+[Elevator0]: now at 13 floor	 is runing to 12 floor	 Height 134
+[Elevator1]: now at 4 floor	 is runing to 1 floor	 Height 48
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 120
+
+
+#Tick 199--------------------
+Passenger[Sen_11] is coming
+[Elevator0]: now at 13 floor	 is runing to 12 floor	 Height 132
+[Elevator1]: now at 4 floor	 is runing to 1 floor	 Height 46
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 122
+
+
+#Tick 200--------------------
+[Elevator0]: now at 13 floor	 is runing to 12 floor	 Height 130
+[Elevator1]: now at 4 floor	 is runing to 1 floor	 Height 44
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 124
+
+
+#Tick 201--------------------
+[Elevator0]: now at 12 floor	 is runing to 12 floor	 Height 128
+[Elevator 0] :  OPEN the door at12 :
+[Elevator1]: now at 4 floor	 is runing to 1 floor	 Height 42
+[Elevator2] :  CLOSE the door at15 :
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 126
+
+
+#Tick 202--------------------
+=>Sen_19 leave Elevator0
+[Elevator1]: now at 4 floor	 is runing to 1 floor	 Height 40
+[Elevator2]: now at 15 floor	 is runing to 16 floor	 Height 152
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 128
+
+
+#Tick 203--------------------
+[Elevator1]: now at 3 floor	 is runing to 1 floor	 Height 38
+[Elevator2]: now at 15 floor	 is runing to 16 floor	 Height 154
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 130
+
+
+#Tick 204--------------------
+Passenger[Sen_5] is coming
+[Elevator1]: now at 3 floor	 is runing to 1 floor	 Height 36
+[Elevator2]: now at 15 floor	 is runing to 16 floor	 Height 156
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 132
+
+
+#Tick 205--------------------
+[Elevator1]: now at 3 floor	 is runing to 1 floor	 Height 34
+[Elevator2]: now at 15 floor	 is runing to 16 floor	 Height 158
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 134
+
+
+#Tick 206--------------------
+[Elevator0] :  CLOSE the door at12 :
+[Elevator1]: now at 3 floor	 is runing to 1 floor	 Height 32
+[Elevator2]: now at 16 floor	 is runing to 16 floor	 Height 160
+[Elevator 2] :  OPEN the door at16 :
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 136
+
+
+#Tick 207--------------------
+=>Sen_11 enter Elevator2
+[Elevator0]: now at 12 floor	 is runing to 2 floor	 Height 126
+[Elevator1]: now at 3 floor	 is runing to 1 floor	 Height 30
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 138
+
+
+#Tick 208--------------------
+[Elevator0]: now at 12 floor	 is runing to 2 floor	 Height 124
+[Elevator1]: now at 2 floor	 is runing to 1 floor	 Height 28
+[Elevator3]: now at 14 floor	 is runing to 14 floor	 Height 140
+[Elevator 3] :  OPEN the door at14 :
+
+
+#Tick 209--------------------
+=>Sen_2 leave Elevator3
+[Elevator0]: now at 12 floor	 is runing to 2 floor	 Height 122
+[Elevator1]: now at 2 floor	 is runing to 1 floor	 Height 26
+
+
+#Tick 210--------------------
+[Elevator0]: now at 12 floor	 is runing to 2 floor	 Height 120
+[Elevator1]: now at 2 floor	 is runing to 1 floor	 Height 24
+
+
+#Tick 211--------------------
+[Elevator0]: now at 11 floor	 is runing to 2 floor	 Height 118
+[Elevator1]: now at 2 floor	 is runing to 1 floor	 Height 22
+[Elevator2] :  CLOSE the door at16 :
+
+
+#Tick 212--------------------
+[Elevator0]: now at 11 floor	 is runing to 2 floor	 Height 116
+[Elevator1]: now at 2 floor	 is runing to 1 floor	 Height 20
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 162
+
+
+#Tick 213--------------------
+Passenger[Sen_20] is coming
+[Elevator0]: now at 11 floor	 is runing to 2 floor	 Height 114
+[Elevator1]: now at 1 floor	 is runing to 1 floor	 Height 18
+[Elevator 1] :  OPEN the door at1 :
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 164
+[Elevator3] :  CLOSE the door at14 :
+
+
+#Tick 214--------------------
+=>Sen_15 enter Elevator1
+[Elevator0]: now at 11 floor	 is runing to 2 floor	 Height 112
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 166
+[Elevator3]: now at 13 floor	 is runing to 10 floor	 Height 138
+
+
+#Tick 215--------------------
+[Elevator0]: now at 11 floor	 is runing to 2 floor	 Height 110
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 168
+[Elevator3]: now at 13 floor	 is runing to 10 floor	 Height 136
+
+
+#Tick 216--------------------
+[Elevator0]: now at 10 floor	 is runing to 2 floor	 Height 108
+[Elevator2]: now at 17 floor	 is runing to 17 floor	 Height 170
+[Elevator 2] :  OPEN the door at17 :
+[Elevator3]: now at 13 floor	 is runing to 10 floor	 Height 134
+
+
+#Tick 217--------------------
+=>Sen_12 leave Elevator2
+[Elevator0]: now at 10 floor	 is runing to 2 floor	 Height 106
+[Elevator3]: now at 13 floor	 is runing to 10 floor	 Height 132
+
+
+#Tick 218--------------------
+[Elevator0]: now at 10 floor	 is runing to 2 floor	 Height 104
+[Elevator1] :  CLOSE the door at1 :
+[Elevator3]: now at 13 floor	 is runing to 10 floor	 Height 130
+
+
+#Tick 219--------------------
+[Elevator0]: now at 10 floor	 is runing to 2 floor	 Height 102
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 20
+[Elevator3]: now at 12 floor	 is runing to 10 floor	 Height 128
+
+
+#Tick 220--------------------
+[Elevator0]: now at 10 floor	 is runing to 2 floor	 Height 100
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 22
+[Elevator3]: now at 12 floor	 is runing to 10 floor	 Height 126
+
+
+#Tick 221--------------------
+[Elevator0]: now at 9 floor	 is runing to 2 floor	 Height 98
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 24
+[Elevator2] :  CLOSE the door at17 :
+[Elevator3]: now at 12 floor	 is runing to 10 floor	 Height 124
+
+
+#Tick 222--------------------
+[Elevator0]: now at 9 floor	 is runing to 2 floor	 Height 96
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 26
+[Elevator2]: now at 17 floor	 is runing to 18 floor	 Height 172
+[Elevator3]: now at 12 floor	 is runing to 10 floor	 Height 122
+
+
+#Tick 223--------------------
+[Elevator0]: now at 9 floor	 is runing to 2 floor	 Height 94
+[Elevator1]: now at 2 floor	 is runing to 3 floor	 Height 28
+[Elevator2]: now at 17 floor	 is runing to 18 floor	 Height 174
+[Elevator3]: now at 12 floor	 is runing to 10 floor	 Height 120
+
+
+#Tick 224--------------------
+[Elevator0]: now at 9 floor	 is runing to 2 floor	 Height 92
+[Elevator1]: now at 3 floor	 is runing to 3 floor	 Height 30
+[Elevator 1] :  OPEN the door at3 :
+[Elevator2]: now at 17 floor	 is runing to 18 floor	 Height 176
+[Elevator3]: now at 11 floor	 is runing to 10 floor	 Height 118
+
+
+#Tick 225--------------------
+=>Sen_9 enter Elevator1
+[Elevator0]: now at 9 floor	 is runing to 2 floor	 Height 90
+[Elevator2]: now at 17 floor	 is runing to 18 floor	 Height 178
+[Elevator3]: now at 11 floor	 is runing to 10 floor	 Height 116
+
+
+#Tick 226--------------------
+[Elevator0]: now at 8 floor	 is runing to 2 floor	 Height 88
+[Elevator2]: now at 18 floor	 is runing to 18 floor	 Height 180
+[Elevator 2] :  OPEN the door at18 :
+[Elevator3]: now at 11 floor	 is runing to 10 floor	 Height 114
+
+
+#Tick 227--------------------
+=>Sen_11 leave Elevator2
+[Elevator0]: now at 8 floor	 is runing to 2 floor	 Height 86
+[Elevator3]: now at 11 floor	 is runing to 10 floor	 Height 112
+
+
+#Tick 228--------------------
+[Elevator0]: now at 8 floor	 is runing to 2 floor	 Height 84
+[Elevator3]: now at 11 floor	 is runing to 10 floor	 Height 110
+
+
+#Tick 229--------------------
+[Elevator0]: now at 8 floor	 is runing to 2 floor	 Height 82
+[Elevator1] :  CLOSE the door at3 :
+[Elevator3]: now at 10 floor	 is runing to 10 floor	 Height 108
+[Elevator 3] :  OPEN the door at10 :
+
+
+#Tick 230--------------------
+=>Sen_20 enter Elevator3
+[Elevator0]: now at 8 floor	 is runing to 2 floor	 Height 80
+[Elevator1]: now at 3 floor	 is runing to 6 floor	 Height 32
+
+
+#Tick 231--------------------
+[Elevator0]: now at 7 floor	 is runing to 2 floor	 Height 78
+[Elevator1]: now at 3 floor	 is runing to 6 floor	 Height 34
+[Elevator2] :  CLOSE the door at18 :
+
+
+#Tick 232--------------------
+[Elevator0]: now at 7 floor	 is runing to 2 floor	 Height 76
+[Elevator1]: now at 3 floor	 is runing to 6 floor	 Height 36
+[Elevator2]: now at 17 floor	 is runing to 15 floor	 Height 178
+
+
+#Tick 233--------------------
+[Elevator0]: now at 7 floor	 is runing to 2 floor	 Height 74
+[Elevator1]: now at 3 floor	 is runing to 6 floor	 Height 38
+[Elevator2]: now at 17 floor	 is runing to 15 floor	 Height 176
+
+
+#Tick 234--------------------
+[Elevator0]: now at 7 floor	 is runing to 2 floor	 Height 72
+[Elevator1]: now at 4 floor	 is runing to 6 floor	 Height 40
+[Elevator2]: now at 17 floor	 is runing to 15 floor	 Height 174
+[Elevator3] :  CLOSE the door at10 :
+
+
+#Tick 235--------------------
+[Elevator0]: now at 7 floor	 is runing to 2 floor	 Height 70
+[Elevator1]: now at 4 floor	 is runing to 6 floor	 Height 42
+[Elevator2]: now at 17 floor	 is runing to 15 floor	 Height 172
+[Elevator3]: now at 11 floor	 is runing to 18 floor	 Height 110
+
+
+#Tick 236--------------------
+[Elevator0]: now at 6 floor	 is runing to 2 floor	 Height 68
+[Elevator1]: now at 4 floor	 is runing to 6 floor	 Height 44
+[Elevator2]: now at 17 floor	 is runing to 15 floor	 Height 170
+[Elevator3]: now at 11 floor	 is runing to 18 floor	 Height 112
+
+
+#Tick 237--------------------
+[Elevator0]: now at 6 floor	 is runing to 2 floor	 Height 66
+[Elevator1]: now at 4 floor	 is runing to 6 floor	 Height 46
+[Elevator2]: now at 16 floor	 is runing to 15 floor	 Height 168
+[Elevator3]: now at 11 floor	 is runing to 18 floor	 Height 114
+
+
+#Tick 238--------------------
+[Elevator0]: now at 6 floor	 is runing to 2 floor	 Height 64
+[Elevator1]: now at 4 floor	 is runing to 6 floor	 Height 48
+[Elevator2]: now at 16 floor	 is runing to 15 floor	 Height 166
+[Elevator3]: now at 11 floor	 is runing to 18 floor	 Height 116
+
+
+#Tick 239--------------------
+[Elevator0]: now at 6 floor	 is runing to 2 floor	 Height 62
+[Elevator1]: now at 5 floor	 is runing to 6 floor	 Height 50
+[Elevator2]: now at 16 floor	 is runing to 15 floor	 Height 164
+[Elevator3]: now at 11 floor	 is runing to 18 floor	 Height 118
+
+
+#Tick 240--------------------
+[Elevator0]: now at 6 floor	 is runing to 2 floor	 Height 60
+[Elevator1]: now at 5 floor	 is runing to 6 floor	 Height 52
+[Elevator2]: now at 16 floor	 is runing to 15 floor	 Height 162
+[Elevator3]: now at 12 floor	 is runing to 18 floor	 Height 120
+
+
+#Tick 241--------------------
+Passenger[Sen_8] is coming
+[Elevator0]: now at 5 floor	 is runing to 2 floor	 Height 58
+[Elevator1]: now at 5 floor	 is runing to 6 floor	 Height 54
+[Elevator2]: now at 16 floor	 is runing to 15 floor	 Height 160
+[Elevator3]: now at 12 floor	 is runing to 18 floor	 Height 122
+
+
+#Tick 242--------------------
+[Elevator0]: now at 5 floor	 is runing to 2 floor	 Height 56
+[Elevator1]: now at 5 floor	 is runing to 6 floor	 Height 56
+[Elevator2]: now at 15 floor	 is runing to 15 floor	 Height 158
+[Elevator 2] :  OPEN the door at15 :
+[Elevator3]: now at 12 floor	 is runing to 18 floor	 Height 124
+
+
+#Tick 243--------------------
+=>Sen_1 enter Elevator2
+[Elevator0]: now at 5 floor	 is runing to 2 floor	 Height 54
+[Elevator1]: now at 5 floor	 is runing to 6 floor	 Height 58
+[Elevator3]: now at 12 floor	 is runing to 18 floor	 Height 126
+
+
+#Tick 244--------------------
+[Elevator0]: now at 5 floor	 is runing to 2 floor	 Height 52
+[Elevator1]: now at 6 floor	 is runing to 6 floor	 Height 60
+[Elevator 1] :  OPEN the door at6 :
+[Elevator3]: now at 12 floor	 is runing to 18 floor	 Height 128
+
+
+#Tick 245--------------------
+=>Sen_5 enter Elevator1
+[Elevator0]: now at 5 floor	 is runing to 2 floor	 Height 50
+[Elevator3]: now at 13 floor	 is runing to 18 floor	 Height 130
+
+
+#Tick 246--------------------
+[Elevator0]: now at 4 floor	 is runing to 2 floor	 Height 48
+[Elevator3]: now at 13 floor	 is runing to 18 floor	 Height 132
+
+
+#Tick 247--------------------
+[Elevator0]: now at 4 floor	 is runing to 2 floor	 Height 46
+[Elevator2] :  CLOSE the door at15 :
+[Elevator3]: now at 13 floor	 is runing to 18 floor	 Height 134
+
+
+#Tick 248--------------------
+[Elevator0]: now at 4 floor	 is runing to 2 floor	 Height 44
+[Elevator2]: now at 15 floor	 is runing to 12 floor	 Height 156
+[Elevator3]: now at 13 floor	 is runing to 18 floor	 Height 136
+
+
+#Tick 249--------------------
+[Elevator0]: now at 4 floor	 is runing to 2 floor	 Height 42
+[Elevator1] :  CLOSE the door at6 :
+[Elevator2]: now at 15 floor	 is runing to 12 floor	 Height 154
+[Elevator3]: now at 13 floor	 is runing to 18 floor	 Height 138
+
+
+#Tick 250--------------------
+[Elevator0]: now at 4 floor	 is runing to 2 floor	 Height 40
+[Elevator1]: now at 6 floor	 is runing to 9 floor	 Height 62
+[Elevator2]: now at 15 floor	 is runing to 12 floor	 Height 152
+[Elevator3]: now at 14 floor	 is runing to 18 floor	 Height 140
+
+
+#Tick 251--------------------
+[Elevator0]: now at 3 floor	 is runing to 2 floor	 Height 38
+[Elevator1]: now at 6 floor	 is runing to 9 floor	 Height 64
+[Elevator2]: now at 15 floor	 is runing to 12 floor	 Height 150
+[Elevator3]: now at 14 floor	 is runing to 18 floor	 Height 142
+
+
+#Tick 252--------------------
+[Elevator0]: now at 3 floor	 is runing to 2 floor	 Height 36
+[Elevator1]: now at 6 floor	 is runing to 9 floor	 Height 66
+[Elevator2]: now at 14 floor	 is runing to 12 floor	 Height 148
+[Elevator3]: now at 14 floor	 is runing to 18 floor	 Height 144
+
+
+#Tick 253--------------------
+[Elevator0]: now at 3 floor	 is runing to 2 floor	 Height 34
+[Elevator1]: now at 6 floor	 is runing to 9 floor	 Height 68
+[Elevator2]: now at 14 floor	 is runing to 12 floor	 Height 146
+[Elevator3]: now at 14 floor	 is runing to 18 floor	 Height 146
+
+
+#Tick 254--------------------
+[Elevator0]: now at 3 floor	 is runing to 2 floor	 Height 32
+[Elevator1]: now at 7 floor	 is runing to 9 floor	 Height 70
+[Elevator2]: now at 14 floor	 is runing to 12 floor	 Height 144
+[Elevator3]: now at 14 floor	 is runing to 18 floor	 Height 148
+
+
+#Tick 255--------------------
+[Elevator0]: now at 3 floor	 is runing to 2 floor	 Height 30
+[Elevator1]: now at 7 floor	 is runing to 9 floor	 Height 72
+[Elevator2]: now at 14 floor	 is runing to 12 floor	 Height 142
+[Elevator3]: now at 15 floor	 is runing to 18 floor	 Height 150
+
+
+#Tick 256--------------------
+[Elevator0]: now at 2 floor	 is runing to 2 floor	 Height 28
+[Elevator 0] :  OPEN the door at2 :
+[Elevator1]: now at 7 floor	 is runing to 9 floor	 Height 74
+[Elevator2]: now at 14 floor	 is runing to 12 floor	 Height 140
+[Elevator3]: now at 15 floor	 is runing to 18 floor	 Height 152
+
+
+#Tick 257--------------------
+=>Sen_16 leave Elevator0
+[Elevator1]: now at 7 floor	 is runing to 9 floor	 Height 76
+[Elevator2]: now at 13 floor	 is runing to 12 floor	 Height 138
+[Elevator3]: now at 15 floor	 is runing to 18 floor	 Height 154
+
+
+#Tick 258--------------------
+[Elevator1]: now at 7 floor	 is runing to 9 floor	 Height 78
+[Elevator2]: now at 13 floor	 is runing to 12 floor	 Height 136
+[Elevator3]: now at 15 floor	 is runing to 18 floor	 Height 156
+
+
+#Tick 259--------------------
+[Elevator1]: now at 8 floor	 is runing to 9 floor	 Height 80
+[Elevator2]: now at 13 floor	 is runing to 12 floor	 Height 134
+[Elevator3]: now at 15 floor	 is runing to 18 floor	 Height 158
+
+
+#Tick 260--------------------
+[Elevator1]: now at 8 floor	 is runing to 9 floor	 Height 82
+[Elevator2]: now at 13 floor	 is runing to 12 floor	 Height 132
+[Elevator3]: now at 16 floor	 is runing to 18 floor	 Height 160
+
+
+#Tick 261--------------------
+[Elevator0] :  CLOSE the door at2 :
+[Elevator1]: now at 8 floor	 is runing to 9 floor	 Height 84
+[Elevator2]: now at 13 floor	 is runing to 12 floor	 Height 130
+[Elevator3]: now at 16 floor	 is runing to 18 floor	 Height 162
+
+
+#Tick 262--------------------
+[Elevator0]: now at 3 floor	 is runing to 18 floor	 Height 30
+[Elevator1]: now at 8 floor	 is runing to 9 floor	 Height 86
+[Elevator2]: now at 12 floor	 is runing to 12 floor	 Height 128
+[Elevator 2] :  OPEN the door at12 :
+[Elevator3]: now at 16 floor	 is runing to 18 floor	 Height 164
+
+
+#Tick 263--------------------
+=>Sen_1 leave Elevator2
+[Elevator0]: now at 3 floor	 is runing to 18 floor	 Height 32
+[Elevator1]: now at 8 floor	 is runing to 9 floor	 Height 88
+[Elevator3]: now at 16 floor	 is runing to 18 floor	 Height 166
+
+
+#Tick 264--------------------
+[Elevator0]: now at 3 floor	 is runing to 18 floor	 Height 34
+[Elevator1]: now at 9 floor	 is runing to 9 floor	 Height 90
+[Elevator 1] :  OPEN the door at9 :
+[Elevator3]: now at 16 floor	 is runing to 18 floor	 Height 168
+
+
+#Tick 265--------------------
+=>Sen_5 leave Elevator1
+=>Sen_8 enter Elevator1
+[Elevator0]: now at 3 floor	 is runing to 18 floor	 Height 36
+[Elevator3]: now at 17 floor	 is runing to 18 floor	 Height 170
+
+
+#Tick 266--------------------
+[Elevator0]: now at 3 floor	 is runing to 18 floor	 Height 38
+[Elevator3]: now at 17 floor	 is runing to 18 floor	 Height 172
+
+
+#Tick 267--------------------
+[Elevator0]: now at 4 floor	 is runing to 18 floor	 Height 40
+[Elevator2] :  CLOSE the door at12 :
+[Elevator3]: now at 17 floor	 is runing to 18 floor	 Height 174
+
+
+#Tick 268--------------------
+[Elevator0]: now at 4 floor	 is runing to 18 floor	 Height 42
+[Elevator2]: It is Idle
+[Elevator3]: now at 17 floor	 is runing to 18 floor	 Height 176
+
+
+#Tick 269--------------------
+[Elevator0]: now at 4 floor	 is runing to 18 floor	 Height 44
+[Elevator1] :  CLOSE the door at9 :
+[Elevator2]: It is Idle
+[Elevator3]: now at 17 floor	 is runing to 18 floor	 Height 178
+
+
+#Tick 270--------------------
+[Elevator0]: now at 4 floor	 is runing to 18 floor	 Height 46
+[Elevator1]: now at 9 floor	 is runing to 10 floor	 Height 92
+[Elevator2]: It is Idle
+[Elevator3]: now at 18 floor	 is runing to 18 floor	 Height 180
+[Elevator 3] :  OPEN the door at18 :
+
+
+#Tick 271--------------------
+Passenger[Sen_13] is coming
+=>Sen_20 leave Elevator3
+[Elevator0]: now at 4 floor	 is runing to 18 floor	 Height 48
+[Elevator1]: now at 9 floor	 is runing to 10 floor	 Height 94
+[Elevator2]: now at 13 floor	 is runing to 17 floor	 Height 130
+
+
+#Tick 272--------------------
+[Elevator0]: now at 5 floor	 is runing to 18 floor	 Height 50
+[Elevator1]: now at 9 floor	 is runing to 10 floor	 Height 96
+[Elevator2]: now at 13 floor	 is runing to 17 floor	 Height 132
+
+
+#Tick 273--------------------
+Passenger[Sen_4] is coming
+[Elevator0]: now at 5 floor	 is runing to 18 floor	 Height 52
+[Elevator1]: now at 9 floor	 is runing to 10 floor	 Height 98
+[Elevator2]: now at 13 floor	 is runing to 17 floor	 Height 134
+
+
+#Tick 274--------------------
+Passenger[Sen_18] is coming
+[Elevator0]: now at 5 floor	 is runing to 18 floor	 Height 54
+[Elevator1]: now at 10 floor	 is runing to 10 floor	 Height 100
+[Elevator 1] :  OPEN the door at10 :
+[Elevator2]: now at 13 floor	 is runing to 17 floor	 Height 136
+
+
+#Tick 275--------------------
+=>Sen_15 leave Elevator1
+[Elevator0]: now at 5 floor	 is runing to 18 floor	 Height 56
+[Elevator2]: now at 13 floor	 is runing to 17 floor	 Height 138
+[Elevator3] :  CLOSE the door at18 :
+
+
+#Tick 276--------------------
+[Elevator0]: now at 5 floor	 is runing to 18 floor	 Height 58
+[Elevator2]: now at 14 floor	 is runing to 17 floor	 Height 140
+[Elevator3]: now at 17 floor	 is runing to 4 floor	 Height 178
+
+
+#Tick 277--------------------
+[Elevator0]: now at 6 floor	 is runing to 18 floor	 Height 60
+[Elevator2]: now at 14 floor	 is runing to 17 floor	 Height 142
+[Elevator3]: now at 17 floor	 is runing to 4 floor	 Height 176
+
+
+#Tick 278--------------------
+[Elevator0]: now at 6 floor	 is runing to 18 floor	 Height 62
+[Elevator2]: now at 14 floor	 is runing to 17 floor	 Height 144
+[Elevator3]: now at 17 floor	 is runing to 4 floor	 Height 174
+
+
+#Tick 279--------------------
+[Elevator0]: now at 6 floor	 is runing to 18 floor	 Height 64
+[Elevator1] :  CLOSE the door at10 :
+[Elevator2]: now at 14 floor	 is runing to 17 floor	 Height 146
+[Elevator3]: now at 17 floor	 is runing to 4 floor	 Height 172
+
+
+#Tick 280--------------------
+[Elevator0]: now at 6 floor	 is runing to 18 floor	 Height 66
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 102
+[Elevator2]: now at 14 floor	 is runing to 17 floor	 Height 148
+[Elevator3]: now at 17 floor	 is runing to 4 floor	 Height 170
+
+
+#Tick 281--------------------
+[Elevator0]: now at 6 floor	 is runing to 18 floor	 Height 68
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 104
+[Elevator2]: now at 15 floor	 is runing to 17 floor	 Height 150
+[Elevator3]: now at 16 floor	 is runing to 4 floor	 Height 168
+
+
+#Tick 282--------------------
+[Elevator0]: now at 7 floor	 is runing to 18 floor	 Height 70
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 106
+[Elevator2]: now at 15 floor	 is runing to 17 floor	 Height 152
+[Elevator3]: now at 16 floor	 is runing to 4 floor	 Height 166
+
+
+#Tick 283--------------------
+[Elevator0]: now at 7 floor	 is runing to 18 floor	 Height 72
+[Elevator1]: now at 10 floor	 is runing to 16 floor	 Height 108
+[Elevator2]: now at 15 floor	 is runing to 17 floor	 Height 154
+[Elevator3]: now at 16 floor	 is runing to 4 floor	 Height 164
+
+
+#Tick 284--------------------
+[Elevator0]: now at 7 floor	 is runing to 18 floor	 Height 74
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 110
+[Elevator2]: now at 15 floor	 is runing to 17 floor	 Height 156
+[Elevator3]: now at 16 floor	 is runing to 4 floor	 Height 162
+
+
+#Tick 285--------------------
+[Elevator0]: now at 7 floor	 is runing to 18 floor	 Height 76
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 112
+[Elevator2]: now at 15 floor	 is runing to 17 floor	 Height 158
+[Elevator3]: now at 16 floor	 is runing to 4 floor	 Height 160
+
+
+#Tick 286--------------------
+[Elevator0]: now at 7 floor	 is runing to 18 floor	 Height 78
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 114
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 160
+[Elevator3]: now at 15 floor	 is runing to 4 floor	 Height 158
+
+
+#Tick 287--------------------
+[Elevator0]: now at 8 floor	 is runing to 18 floor	 Height 80
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 116
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 162
+[Elevator3]: now at 15 floor	 is runing to 4 floor	 Height 156
+
+
+#Tick 288--------------------
+[Elevator0]: now at 8 floor	 is runing to 18 floor	 Height 82
+[Elevator1]: now at 11 floor	 is runing to 16 floor	 Height 118
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 164
+[Elevator3]: now at 15 floor	 is runing to 4 floor	 Height 154
+
+
+#Tick 289--------------------
+[Elevator0]: now at 8 floor	 is runing to 18 floor	 Height 84
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 120
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 166
+[Elevator3]: now at 15 floor	 is runing to 4 floor	 Height 152
+
+
+#Tick 290--------------------
+Passenger[Sen_3] is coming
+[Elevator0]: now at 8 floor	 is runing to 18 floor	 Height 86
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 122
+[Elevator2]: now at 16 floor	 is runing to 17 floor	 Height 168
+[Elevator3]: now at 15 floor	 is runing to 4 floor	 Height 150
+
+
+#Tick 291--------------------
+[Elevator0]: now at 8 floor	 is runing to 18 floor	 Height 88
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 124
+[Elevator2]: now at 17 floor	 is runing to 17 floor	 Height 170
+[Elevator 2] :  OPEN the door at17 :
+[Elevator3]: now at 14 floor	 is runing to 4 floor	 Height 148
+
+
+#Tick 292--------------------
+=>Sen_3 enter Elevator2
+=>Sen_4 enter Elevator2
+=>Sen_13 enter Elevator2
+[Elevator0]: now at 9 floor	 is runing to 18 floor	 Height 90
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 126
+[Elevator3]: now at 14 floor	 is runing to 4 floor	 Height 146
+
+
+#Tick 293--------------------
+[Elevator0]: now at 9 floor	 is runing to 18 floor	 Height 92
+[Elevator1]: now at 12 floor	 is runing to 16 floor	 Height 128
+[Elevator3]: now at 14 floor	 is runing to 4 floor	 Height 144
+
+
+#Tick 294--------------------
+[Elevator0]: now at 9 floor	 is runing to 18 floor	 Height 94
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 130
+[Elevator3]: now at 14 floor	 is runing to 4 floor	 Height 142
+
+
+#Tick 295--------------------
+[Elevator0]: now at 9 floor	 is runing to 18 floor	 Height 96
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 132
+[Elevator3]: now at 14 floor	 is runing to 4 floor	 Height 140
+
+
+#Tick 296--------------------
+[Elevator0]: now at 9 floor	 is runing to 18 floor	 Height 98
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 134
+[Elevator2] :  CLOSE the door at17 :
+[Elevator3]: now at 13 floor	 is runing to 4 floor	 Height 138
+
+
+#Tick 297--------------------
+[Elevator0]: now at 10 floor	 is runing to 18 floor	 Height 100
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 136
+[Elevator2]: now at 16 floor	 is runing to 13 floor	 Height 168
+[Elevator3]: now at 13 floor	 is runing to 4 floor	 Height 136
+
+
+#Tick 298--------------------
+[Elevator0]: now at 10 floor	 is runing to 18 floor	 Height 102
+[Elevator1]: now at 13 floor	 is runing to 16 floor	 Height 138
+[Elevator2]: now at 16 floor	 is runing to 13 floor	 Height 166
+[Elevator3]: now at 13 floor	 is runing to 4 floor	 Height 134
+
+
+#Tick 299--------------------
+[Elevator0]: now at 10 floor	 is runing to 18 floor	 Height 104
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 140
+[Elevator2]: now at 16 floor	 is runing to 13 floor	 Height 164
+[Elevator3]: now at 13 floor	 is runing to 4 floor	 Height 132
+
+
+#Tick 300--------------------
+[Elevator0]: now at 10 floor	 is runing to 18 floor	 Height 106
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 142
+[Elevator2]: now at 16 floor	 is runing to 13 floor	 Height 162
+[Elevator3]: now at 13 floor	 is runing to 4 floor	 Height 130
+
+
+#Tick 301--------------------
+[Elevator0]: now at 10 floor	 is runing to 18 floor	 Height 108
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 144
+[Elevator2]: now at 16 floor	 is runing to 13 floor	 Height 160
+[Elevator3]: now at 12 floor	 is runing to 4 floor	 Height 128
+
+
+#Tick 302--------------------
+[Elevator0]: now at 11 floor	 is runing to 18 floor	 Height 110
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 146
+[Elevator2]: now at 15 floor	 is runing to 13 floor	 Height 158
+[Elevator3]: now at 12 floor	 is runing to 4 floor	 Height 126
+
+
+#Tick 303--------------------
+[Elevator0]: now at 11 floor	 is runing to 18 floor	 Height 112
+[Elevator1]: now at 14 floor	 is runing to 16 floor	 Height 148
+[Elevator2]: now at 15 floor	 is runing to 13 floor	 Height 156
+[Elevator3]: now at 12 floor	 is runing to 4 floor	 Height 124
+
+
+#Tick 304--------------------
+[Elevator0]: now at 11 floor	 is runing to 18 floor	 Height 114
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 150
+[Elevator2]: now at 15 floor	 is runing to 13 floor	 Height 154
+[Elevator3]: now at 12 floor	 is runing to 4 floor	 Height 122
+
+
+#Tick 305--------------------
+[Elevator0]: now at 11 floor	 is runing to 18 floor	 Height 116
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 152
+[Elevator2]: now at 15 floor	 is runing to 13 floor	 Height 152
+[Elevator3]: now at 12 floor	 is runing to 4 floor	 Height 120
+
+
+#Tick 306--------------------
+[Elevator0]: now at 11 floor	 is runing to 18 floor	 Height 118
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 154
+[Elevator2]: now at 15 floor	 is runing to 13 floor	 Height 150
+[Elevator3]: now at 11 floor	 is runing to 4 floor	 Height 118
+
+
+#Tick 307--------------------
+[Elevator0]: now at 12 floor	 is runing to 18 floor	 Height 120
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 156
+[Elevator2]: now at 14 floor	 is runing to 13 floor	 Height 148
+[Elevator3]: now at 11 floor	 is runing to 4 floor	 Height 116
+
+
+#Tick 308--------------------
+[Elevator0]: now at 12 floor	 is runing to 18 floor	 Height 122
+[Elevator1]: now at 15 floor	 is runing to 16 floor	 Height 158
+[Elevator2]: now at 14 floor	 is runing to 13 floor	 Height 146
+[Elevator3]: now at 11 floor	 is runing to 4 floor	 Height 114
+
+
+#Tick 309--------------------
+[Elevator0]: now at 12 floor	 is runing to 18 floor	 Height 124
+[Elevator1]: now at 16 floor	 is runing to 16 floor	 Height 160
+[Elevator 1] :  OPEN the door at16 :
+[Elevator2]: now at 14 floor	 is runing to 13 floor	 Height 144
+[Elevator3]: now at 11 floor	 is runing to 4 floor	 Height 112
+
+
+#Tick 310--------------------
+=>Sen_8 leave Elevator1
+[Elevator0]: now at 12 floor	 is runing to 18 floor	 Height 126
+[Elevator2]: now at 14 floor	 is runing to 13 floor	 Height 142
+[Elevator3]: now at 11 floor	 is runing to 4 floor	 Height 110
+
+
+#Tick 311--------------------
+[Elevator0]: now at 12 floor	 is runing to 18 floor	 Height 128
+[Elevator2]: now at 14 floor	 is runing to 13 floor	 Height 140
+[Elevator3]: now at 10 floor	 is runing to 4 floor	 Height 108
+
+
+#Tick 312--------------------
+[Elevator0]: now at 13 floor	 is runing to 18 floor	 Height 130
+[Elevator2]: now at 13 floor	 is runing to 13 floor	 Height 138
+[Elevator 2] :  OPEN the door at13 :
+[Elevator3]: now at 10 floor	 is runing to 4 floor	 Height 106
+
+
+#Tick 313--------------------
+=>Sen_13 leave Elevator2
+[Elevator0]: now at 13 floor	 is runing to 18 floor	 Height 132
+[Elevator3]: now at 10 floor	 is runing to 4 floor	 Height 104
+
+
+#Tick 314--------------------
+[Elevator0]: now at 13 floor	 is runing to 18 floor	 Height 134
+[Elevator1] :  CLOSE the door at16 :
+[Elevator3]: now at 10 floor	 is runing to 4 floor	 Height 102
+
+
+#Tick 315--------------------
+[Elevator0]: now at 13 floor	 is runing to 18 floor	 Height 136
+[Elevator1]: now at 16 floor	 is runing to 19 floor	 Height 162
+[Elevator3]: now at 10 floor	 is runing to 4 floor	 Height 100
+
+
+#Tick 316--------------------
+[Elevator0]: now at 13 floor	 is runing to 18 floor	 Height 138
+[Elevator1]: now at 16 floor	 is runing to 19 floor	 Height 164
+[Elevator3]: now at 9 floor	 is runing to 4 floor	 Height 98
+
+
+#Tick 317--------------------
+[Elevator0]: now at 14 floor	 is runing to 18 floor	 Height 140
+[Elevator1]: now at 16 floor	 is runing to 19 floor	 Height 166
+[Elevator2] :  CLOSE the door at13 :
+[Elevator3]: now at 9 floor	 is runing to 4 floor	 Height 96
+
+
+#Tick 318--------------------
+[Elevator0]: now at 14 floor	 is runing to 18 floor	 Height 142
+[Elevator1]: now at 16 floor	 is runing to 19 floor	 Height 168
+[Elevator2]: now at 13 floor	 is runing to 11 floor	 Height 136
+[Elevator3]: now at 9 floor	 is runing to 4 floor	 Height 94
+
+
+#Tick 319--------------------
+[Elevator0]: now at 14 floor	 is runing to 18 floor	 Height 144
+[Elevator1]: now at 17 floor	 is runing to 19 floor	 Height 170
+[Elevator2]: now at 13 floor	 is runing to 11 floor	 Height 134
+[Elevator3]: now at 9 floor	 is runing to 4 floor	 Height 92
+
+
+#Tick 320--------------------
+[Elevator0]: now at 14 floor	 is runing to 18 floor	 Height 146
+[Elevator1]: now at 17 floor	 is runing to 19 floor	 Height 172
+[Elevator2]: now at 13 floor	 is runing to 11 floor	 Height 132
+[Elevator3]: now at 9 floor	 is runing to 4 floor	 Height 90
+
+
+#Tick 321--------------------
+[Elevator0]: now at 14 floor	 is runing to 18 floor	 Height 148
+[Elevator1]: now at 17 floor	 is runing to 19 floor	 Height 174
+[Elevator2]: now at 13 floor	 is runing to 11 floor	 Height 130
+[Elevator3]: now at 8 floor	 is runing to 4 floor	 Height 88
+
+
+#Tick 322--------------------
+[Elevator0]: now at 15 floor	 is runing to 18 floor	 Height 150
+[Elevator1]: now at 17 floor	 is runing to 19 floor	 Height 176
+[Elevator2]: now at 12 floor	 is runing to 11 floor	 Height 128
+[Elevator3]: now at 8 floor	 is runing to 4 floor	 Height 86
+
+
+#Tick 323--------------------
+[Elevator0]: now at 15 floor	 is runing to 18 floor	 Height 152
+[Elevator1]: now at 17 floor	 is runing to 19 floor	 Height 178
+[Elevator2]: now at 12 floor	 is runing to 11 floor	 Height 126
+[Elevator3]: now at 8 floor	 is runing to 4 floor	 Height 84
+
+
+#Tick 324--------------------
+[Elevator0]: now at 15 floor	 is runing to 18 floor	 Height 154
+[Elevator1]: now at 18 floor	 is runing to 19 floor	 Height 180
+[Elevator2]: now at 12 floor	 is runing to 11 floor	 Height 124
+[Elevator3]: now at 8 floor	 is runing to 4 floor	 Height 82
+
+
+#Tick 325--------------------
+[Elevator0]: now at 15 floor	 is runing to 18 floor	 Height 156
+[Elevator1]: now at 18 floor	 is runing to 19 floor	 Height 182
+[Elevator2]: now at 12 floor	 is runing to 11 floor	 Height 122
+[Elevator3]: now at 8 floor	 is runing to 4 floor	 Height 80
+
+
+#Tick 326--------------------
+[Elevator0]: now at 15 floor	 is runing to 18 floor	 Height 158
+[Elevator1]: now at 18 floor	 is runing to 19 floor	 Height 184
+[Elevator2]: now at 12 floor	 is runing to 11 floor	 Height 120
+[Elevator3]: now at 7 floor	 is runing to 4 floor	 Height 78
+
+
+#Tick 327--------------------
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 160
+[Elevator1]: now at 18 floor	 is runing to 19 floor	 Height 186
+[Elevator2]: now at 11 floor	 is runing to 11 floor	 Height 118
+[Elevator 2] :  OPEN the door at11 :
+[Elevator3]: now at 7 floor	 is runing to 4 floor	 Height 76
+
+
+#Tick 328--------------------
+=>Sen_3 leave Elevator2
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 162
+[Elevator1]: now at 18 floor	 is runing to 19 floor	 Height 188
+[Elevator3]: now at 7 floor	 is runing to 4 floor	 Height 74
+
+
+#Tick 329--------------------
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 164
+[Elevator1]: now at 19 floor	 is runing to 19 floor	 Height 190
+[Elevator 1] :  OPEN the door at19 :
+[Elevator3]: now at 7 floor	 is runing to 4 floor	 Height 72
+
+
+#Tick 330--------------------
+=>Sen_9 leave Elevator1
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 166
+[Elevator3]: now at 7 floor	 is runing to 4 floor	 Height 70
+
+
+#Tick 331--------------------
+[Elevator0]: now at 16 floor	 is runing to 18 floor	 Height 168
+[Elevator3]: now at 6 floor	 is runing to 4 floor	 Height 68
+
+
+#Tick 332--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 170
+[Elevator2] :  CLOSE the door at11 :
+[Elevator3]: now at 6 floor	 is runing to 4 floor	 Height 66
+
+
+#Tick 333--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 172
+[Elevator2]: now at 11 floor	 is runing to 1 floor	 Height 116
+[Elevator3]: now at 6 floor	 is runing to 4 floor	 Height 64
+
+
+#Tick 334--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 174
+[Elevator1] :  CLOSE the door at19 :
+[Elevator2]: now at 11 floor	 is runing to 1 floor	 Height 114
+[Elevator3]: now at 6 floor	 is runing to 4 floor	 Height 62
+
+
+#Tick 335--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 176
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 1 floor	 Height 112
+[Elevator3]: now at 6 floor	 is runing to 4 floor	 Height 60
+
+
+#Tick 336--------------------
+[Elevator0]: now at 17 floor	 is runing to 18 floor	 Height 178
+[Elevator1]: It is Idle
+[Elevator2]: now at 11 floor	 is runing to 1 floor	 Height 110
+[Elevator3]: now at 5 floor	 is runing to 4 floor	 Height 58
+
+
+#Tick 337--------------------
+[Elevator0]: now at 18 floor	 is runing to 18 floor	 Height 180
+[Elevator 0] :  OPEN the door at18 :
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 1 floor	 Height 108
+[Elevator3]: now at 5 floor	 is runing to 4 floor	 Height 56
+
+
+#Tick 338--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 1 floor	 Height 106
+[Elevator3]: now at 5 floor	 is runing to 4 floor	 Height 54
+
+
+#Tick 339--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 1 floor	 Height 104
+[Elevator3]: now at 5 floor	 is runing to 4 floor	 Height 52
+
+
+#Tick 340--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 1 floor	 Height 102
+[Elevator3]: now at 5 floor	 is runing to 4 floor	 Height 50
+
+
+#Tick 341--------------------
+[Elevator1]: It is Idle
+[Elevator2]: now at 10 floor	 is runing to 1 floor	 Height 100
+[Elevator3]: now at 4 floor	 is runing to 4 floor	 Height 48
+[Elevator 3] :  OPEN the door at4 :
+
+
+#Tick 342--------------------
+=>Sen_18 enter Elevator3
+[Elevator0] :  CLOSE the door at18 :
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 1 floor	 Height 98
+
+
+#Tick 343--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 1 floor	 Height 96
+
+
+#Tick 344--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 1 floor	 Height 94
+
+
+#Tick 345--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 1 floor	 Height 92
+
+
+#Tick 346--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 9 floor	 is runing to 1 floor	 Height 90
+[Elevator3] :  CLOSE the door at4 :
+
+
+#Tick 347--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 1 floor	 Height 88
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 50
+
+
+#Tick 348--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 1 floor	 Height 86
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 52
+
+
+#Tick 349--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 1 floor	 Height 84
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 54
+
+
+#Tick 350--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 1 floor	 Height 82
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 56
+
+
+#Tick 351--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 8 floor	 is runing to 1 floor	 Height 80
+[Elevator3]: now at 5 floor	 is runing to 14 floor	 Height 58
+
+
+#Tick 352--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 1 floor	 Height 78
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 60
+
+
+#Tick 353--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 1 floor	 Height 76
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 62
+
+
+#Tick 354--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 1 floor	 Height 74
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 64
+
+
+#Tick 355--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 1 floor	 Height 72
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 66
+
+
+#Tick 356--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 7 floor	 is runing to 1 floor	 Height 70
+[Elevator3]: now at 6 floor	 is runing to 14 floor	 Height 68
+
+
+#Tick 357--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 1 floor	 Height 68
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 70
+
+
+#Tick 358--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 1 floor	 Height 66
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 72
+
+
+#Tick 359--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 1 floor	 Height 64
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 74
+
+
+#Tick 360--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 1 floor	 Height 62
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 76
+
+
+#Tick 361--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 6 floor	 is runing to 1 floor	 Height 60
+[Elevator3]: now at 7 floor	 is runing to 14 floor	 Height 78
+
+
+#Tick 362--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 5 floor	 is runing to 1 floor	 Height 58
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 80
+
+
+#Tick 363--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 5 floor	 is runing to 1 floor	 Height 56
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 82
+
+
+#Tick 364--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 5 floor	 is runing to 1 floor	 Height 54
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 84
+
+
+#Tick 365--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 5 floor	 is runing to 1 floor	 Height 52
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 86
+
+
+#Tick 366--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 5 floor	 is runing to 1 floor	 Height 50
+[Elevator3]: now at 8 floor	 is runing to 14 floor	 Height 88
+
+
+#Tick 367--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 4 floor	 is runing to 1 floor	 Height 48
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 90
+
+
+#Tick 368--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 4 floor	 is runing to 1 floor	 Height 46
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 92
+
+
+#Tick 369--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 4 floor	 is runing to 1 floor	 Height 44
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 94
+
+
+#Tick 370--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 4 floor	 is runing to 1 floor	 Height 42
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 96
+
+
+#Tick 371--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 4 floor	 is runing to 1 floor	 Height 40
+[Elevator3]: now at 9 floor	 is runing to 14 floor	 Height 98
+
+
+#Tick 372--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 3 floor	 is runing to 1 floor	 Height 38
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 100
+
+
+#Tick 373--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 3 floor	 is runing to 1 floor	 Height 36
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 102
+
+
+#Tick 374--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 3 floor	 is runing to 1 floor	 Height 34
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 104
+
+
+#Tick 375--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 3 floor	 is runing to 1 floor	 Height 32
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 106
+
+
+#Tick 376--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 3 floor	 is runing to 1 floor	 Height 30
+[Elevator3]: now at 10 floor	 is runing to 14 floor	 Height 108
+
+
+#Tick 377--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 2 floor	 is runing to 1 floor	 Height 28
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 110
+
+
+#Tick 378--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 2 floor	 is runing to 1 floor	 Height 26
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 112
+
+
+#Tick 379--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 2 floor	 is runing to 1 floor	 Height 24
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 114
+
+
+#Tick 380--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 2 floor	 is runing to 1 floor	 Height 22
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 116
+
+
+#Tick 381--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 2 floor	 is runing to 1 floor	 Height 20
+[Elevator3]: now at 11 floor	 is runing to 14 floor	 Height 118
+
+
+#Tick 382--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: now at 1 floor	 is runing to 1 floor	 Height 18
+[Elevator 2] :  OPEN the door at1 :
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 120
+
+
+#Tick 383--------------------
+=>Sen_4 leave Elevator2
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 122
+
+
+#Tick 384--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 124
+
+
+#Tick 385--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 126
+
+
+#Tick 386--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator3]: now at 12 floor	 is runing to 14 floor	 Height 128
+
+
+#Tick 387--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2] :  CLOSE the door at1 :
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 130
+
+
+#Tick 388--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 132
+
+
+#Tick 389--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 134
+
+
+#Tick 390--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 136
+
+
+#Tick 391--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: now at 13 floor	 is runing to 14 floor	 Height 138
+
+
+#Tick 392--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+[Elevator3]: now at 14 floor	 is runing to 14 floor	 Height 140
+[Elevator 3] :  OPEN the door at14 :
+
+
+#Tick 393--------------------
+=>Sen_18 leave Elevator3
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+
+
+#Tick 394--------------------
+[Elevator0]: It is Idle
+[Elevator1]: It is Idle
+[Elevator2]: It is Idle
+
+
+passenger Sen_1       coming at 148 tick, arrived at 263 tick, cost 115 Ticks.
+passenger Sen_2       coming at 144 tick, arrived at 209 tick, cost 65 Ticks.
+passenger Sen_3       coming at 290 tick, arrived at 328 tick, cost 38 Ticks.
+passenger Sen_4       coming at 273 tick, arrived at 383 tick, cost 110 Ticks.
+passenger Sen_5       coming at 204 tick, arrived at 265 tick, cost 61 Ticks.
+passenger Sen_6       coming at 50 tick, arrived at 146 tick, cost 96 Ticks.
+passenger Sen_7       coming at 67 tick, arrived at 119 tick, cost 52 Ticks.
+passenger Sen_8       coming at 241 tick, arrived at 310 tick, cost 69 Ticks.
+passenger Sen_9       coming at 160 tick, arrived at 330 tick, cost 170 Ticks.
+passenger Sen_10       coming at 27 tick, arrived at 102 tick, cost 75 Ticks.
+passenger Sen_11       coming at 199 tick, arrived at 227 tick, cost 28 Ticks.
+passenger Sen_12       coming at 189 tick, arrived at 217 tick, cost 28 Ticks.
+passenger Sen_13       coming at 271 tick, arrived at 313 tick, cost 42 Ticks.
+passenger Sen_14       coming at 129 tick, arrived at 150 tick, cost 21 Ticks.
+passenger Sen_15       coming at 143 tick, arrived at 275 tick, cost 132 Ticks.
+passenger Sen_16       coming at 156 tick, arrived at 257 tick, cost 101 Ticks.
+passenger Sen_17       coming at 15 tick, arrived at 51 tick, cost 36 Ticks.
+passenger Sen_18       coming at 274 tick, arrived at 393 tick, cost 119 Ticks.
+passenger Sen_19       coming at 156 tick, arrived at 202 tick, cost 46 Ticks.
+passenger Sen_20       coming at 213 tick, arrived at 271 tick, cost 58 Ticks.
+Average Time Cost : 73.1 ;

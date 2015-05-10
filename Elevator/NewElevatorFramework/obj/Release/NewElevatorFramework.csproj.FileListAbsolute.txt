@@ -1,0 +1,8 @@
+D:\course\ASE\Elevator\NewElevatorFramework\bin\Release\NewElevatorFramework.exe.config
+D:\course\ASE\Elevator\NewElevatorFramework\bin\Release\NewElevatorFramework.exe
+D:\course\ASE\Elevator\NewElevatorFramework\bin\Release\NewElevatorFramework.pdb
+D:\course\ASE\Elevator\NewElevatorFramework\bin\Release\Loader.dll
+D:\course\ASE\Elevator\NewElevatorFramework\bin\Release\Loader.pdb
+D:\course\ASE\Elevator\NewElevatorFramework\obj\Release\NewElevatorFramework.csprojResolveAssemblyReference.cache
+D:\course\ASE\Elevator\NewElevatorFramework\obj\Release\NewElevatorFramework.exe
+D:\course\ASE\Elevator\NewElevatorFramework\obj\Release\NewElevatorFramework.pdb

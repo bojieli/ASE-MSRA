@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>elevators.xml passenger2.xml</StartArguments>
+    <StartWorkingDirectory>D:\course\ASE\Elevator\WorkSpace</StartWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>elevators.xml passenger1.xml</StartArguments>
+    <StartWorkingDirectory>D:\Documents\Visual Studio 2012\Projects\NewElevatorFramework\WorkSpace\</StartWorkingDirectory>
+  </PropertyGroup>
+</Project>

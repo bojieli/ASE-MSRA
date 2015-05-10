@@ -1,0 +1,4 @@
+D:\course\ASE\Elevator\NewElevatorFramework\Loader\bin\Release\Loader.dll
+D:\course\ASE\Elevator\NewElevatorFramework\Loader\bin\Release\Loader.pdb
+D:\course\ASE\Elevator\NewElevatorFramework\Loader\obj\Release\Loader.dll
+D:\course\ASE\Elevator\NewElevatorFramework\Loader\obj\Release\Loader.pdb

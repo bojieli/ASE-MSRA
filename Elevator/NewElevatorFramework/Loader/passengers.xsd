@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="passengerschema"
+    targetNamespace="http://tempuri.org/passengers.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/passengers.xsd"
+    xmlns:mstns="http://tempuri.org/passengers.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+    <xs:element name="passengers" type="Passengers" />
+
+    <xs:complexType name="Passengers">
+        <xs:sequence>
+            <xs:element name="passenger" type="Passenger" minOccurs="1" maxOccurs="unbounded"/>
+        </xs:sequence>
+    </xs:complexType>
+
+    <xs:complexType name="Passenger" >
+        <xs:attribute name="name" type="xs:string" />
+        <xs:attribute name="comingtime" type="xs:int" />
+        <xs:attribute name="fromfloor" type="xs:int"/>
+        <xs:attribute name="tofloor" type="xs:int"/>
+        <xs:attribute name="weight" type="xs:int"/>
+    </xs:complexType>
+    
+</xs:schema>

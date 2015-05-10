@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewElevatorFramework", "NewElevatorFramework\NewElevatorFramework.csproj", "{9583E229-5F8C-480E-B347-E3697A51D2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loader", "NewElevatorFramework\Loader\Loader.csproj", "{3E831BB9-014B-4AC3-BB49-A21EE7FD6FC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9583E229-5F8C-480E-B347-E3697A51D2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9583E229-5F8C-480E-B347-E3697A51D2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9583E229-5F8C-480E-B347-E3697A51D2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9583E229-5F8C-480E-B347-E3697A51D2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E831BB9-014B-4AC3-BB49-A21EE7FD6FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E831BB9-014B-4AC3-BB49-A21EE7FD6FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E831BB9-014B-4AC3-BB49-A21EE7FD6FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E831BB9-014B-4AC3-BB49-A21EE7FD6FC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
